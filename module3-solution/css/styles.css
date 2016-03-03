@@ -8,6 +8,9 @@ body {
 	border-radius: 0;
 	border: 0;
 }
+.navbar-header {
+	padding-left: 25px;
+}
 .navbar-brand {
 	margin-bottom: 20px;
 }
