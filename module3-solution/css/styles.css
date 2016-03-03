@@ -1,0 +1,52 @@
+body {
+	font-size: 16px;
+}
+
+/**** HEADER ****/
+#header-nav {
+	background-color: #005400;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand {
+	margin-bottom: 20px;
+}
+.navbar-brand h1 {
+	color: #E0FFE0;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #E0FFE0;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -51px;
+}
+
+#nav-list a {
+  color: #E0FFE0;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+  color: #005400;
+}
+
+/** MAIN CONTENT**/
+h2 {
+	color: #005400;
+	margin-bottom: 25px;
+}
+.menu-item {
+	height: 1000 px;
+	background-color: #E0FFE0;
+	text-align: justify;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.menu-item-title {
+	color: #005400;
+}
