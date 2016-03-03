@@ -35,16 +35,18 @@ body {
 }
 
 /** MAIN CONTENT**/
+.row {
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
 h2 {
 	color: #005400;
 	margin-bottom: 25px;
 }
 .menu-item {
-	height: 1000 px;
 	background-color: #E0FFE0;
 	text-align: justify;
-	padding-left: 25px;
-	padding-right: 25px;
 }
 
 .menu-item-title {
